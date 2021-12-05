@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zav5", "zav5.csproj", "{EAE23505-6553-4340-B22F-D1DA486695CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE23505-6553-4340-B22F-D1DA486695CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE23505-6553-4340-B22F-D1DA486695CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE23505-6553-4340-B22F-D1DA486695CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE23505-6553-4340-B22F-D1DA486695CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED4BE636-92F9-4BF3-9B76-DC69CADC8219}
+	EndGlobalSection
+EndGlobal

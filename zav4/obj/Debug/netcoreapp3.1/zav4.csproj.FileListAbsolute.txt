@@ -1,0 +1,13 @@
+C:\Users\пк\Desktop\Dz6\zav4\bin\Debug\netcoreapp3.1\zav4.exe
+C:\Users\пк\Desktop\Dz6\zav4\bin\Debug\netcoreapp3.1\zav4.deps.json
+C:\Users\пк\Desktop\Dz6\zav4\bin\Debug\netcoreapp3.1\zav4.runtimeconfig.json
+C:\Users\пк\Desktop\Dz6\zav4\bin\Debug\netcoreapp3.1\zav4.runtimeconfig.dev.json
+C:\Users\пк\Desktop\Dz6\zav4\bin\Debug\netcoreapp3.1\zav4.dll
+C:\Users\пк\Desktop\Dz6\zav4\bin\Debug\netcoreapp3.1\zav4.pdb
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.AssemblyInfo.cs
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.dll
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.pdb
+C:\Users\пк\Desktop\Dz6\zav4\obj\Debug\netcoreapp3.1\zav4.genruntimeconfig.cache
